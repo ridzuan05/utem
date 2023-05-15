@@ -18,3 +18,5 @@ PyCharm Python IDE - https://www.jetbrains.com/pycharm/
 2. Deep Learning Resources
 
 Deep Learning Malaysia - https://deeplearningmy.com/resources/
+
+Building a Deep Learning Model - Guide https://deeplearningmy.com/building-a-deep-learning-model-a-step-by-step-guide/
